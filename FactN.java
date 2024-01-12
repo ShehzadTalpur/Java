@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FactN {
 public static void main(String[] args) {
-    //Fint the factorial of the number
+    //Find the factorial of the number
      int no,fact=1;
     Scanner Ob=new Scanner(System.in);
     System.out.println("Please enter Digit");
