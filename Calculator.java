@@ -9,7 +9,7 @@ public class Calculator {
       String yn;
       do {
           Scanner Ob=new Scanner(System.in);
-                int no1,no2,res;
+              int no1,no2,res;
               String sym;
               System.out.println("Enter 1st Value");
               no1=Ob.nextInt();
