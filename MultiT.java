@@ -12,6 +12,7 @@ public class MultiT {
         System.out.println("\nTable of "+t+"\n");
         for(int i =1; i<=12;i++){
             System.out.println(t+" x "+i+" = "+t*i);
+            
         }
     }
     
